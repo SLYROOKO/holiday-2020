@@ -53,13 +53,7 @@ class _Page2State extends State<Page2> {
                           padding: EdgeInsets.fromLTRB(10, 0, 10, 0),
                           child: TyperAnimatedTextKit(
                             speed: Duration(milliseconds: 100),
-                            text: [/*
-                              "To my beloved family,",
-                              "Even though this year was rough,",
-                              "I'm grateful that we stayed safe.",
-                              "I wish you happiness and health.",
-                              "Merry Christmas!",
-                              "Love, \n Roy",*/
+                            text: [
                               "Greetings to all my wonderful friends.",
                               "I'm so glad that we all made it through this year.",
                               "Thank you guys for being the best.",
